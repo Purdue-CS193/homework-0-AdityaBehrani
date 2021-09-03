@@ -36,10 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
-# Aditiya Behrani's First CS193 HW
+# Aditya Behrani's First CS193 HW
 
 ### Some super cool things I like about CS193
 - We learn things about Github
 - Little Homework
 - My TA Shashank Kumar ( oops ;) )
-- Organized Course
+- Organized course
